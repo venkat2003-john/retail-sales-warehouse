@@ -1,0 +1,21 @@
+{
+  "run_id": "ca9121ea-67ee-491b-80e7-7c12619a49bc",
+  "status": "SUCCESS",
+  "started_at": "2026-11-11T06:59:41.228396+00:00",
+  "ended_at": "2026-11-11T06:59:41.680845+00:00",
+  "duration_seconds": 0.452,
+  "counts": {
+    "input_customers": 500,
+    "input_products": 50,
+    "input_orders": 3000,
+    "input_order_items": 7523,
+    "accepted_fact_rows": 7521,
+    "rejected_rows": 2,
+    "dimension_customers": 500,
+    "dimension_products": 50,
+    "dimension_dates": 301,
+    "warehouse_fact_rows": 7521,
+    "net_sales_total": 57249838.51
+  },
+  "foreign_key_errors": 0
+}
